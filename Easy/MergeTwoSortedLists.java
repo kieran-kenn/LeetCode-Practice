@@ -9,6 +9,7 @@
  * }
  */
 
+ //Two solutions provided below, one is recursive the other is iterative
 class MergeTwoSortedLists {
 
     public ListNode recursive(ListNode list1, ListNode list2) {
